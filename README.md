@@ -9,6 +9,8 @@ https://www.jetbrains.com/help/idea/installation-guide.html
 Install JDK 17 and JavaFX and set it up with Intellij:
 https://www.jetbrains.com/help/idea/javafx.html
 
+Download zip of bookstore folder, unzip it, and open in IntelliJ.
+
 Files:
 Under Folder /src/main/java/App
 Main: Main App, run this
