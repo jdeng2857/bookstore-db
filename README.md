@@ -9,6 +9,9 @@ https://www.jetbrains.com/help/idea/installation-guide.html
 Install JDK 17 and JavaFX and set it up with Intellij:
 https://www.jetbrains.com/help/idea/javafx.html
 
+Install the latest version of postgresql: https://www.postgresql.org/download/
+Setup the database by copying the database-initializer.sql file into a postgresql query client to create all databases.
+
 Download zip of bookstore folder, unzip it, and open in IntelliJ.
 
 Files:
