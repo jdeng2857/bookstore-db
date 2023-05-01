@@ -1,5 +1,4 @@
 # bookstore-db
-For COMP3005 Project
 
 This is a Java JDBC DBMS using Postgresql.
 
